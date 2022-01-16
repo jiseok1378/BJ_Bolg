@@ -1,11 +1,11 @@
-package com.blog.BJ_Bolg
+package com.blog.BJ_Blog
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class BjBolgApplication
+class BjBlogApplication
 
 fun main(args: Array<String>) {
-	runApplication<BjBolgApplication>(*args)
+	runApplication<BjBlogApplication>(*args)
 }
